@@ -3,7 +3,7 @@ Best top mods you must have in blade and sorcery.
 
 READ FIRST ----> CREDITS ----> https://pastebin.com/zQJvZ6rQ
 
-1. Ultraviolence Audio Overhaul (U12) : https://www.nexusmods.com/bladeandsorcery/mods/5936?tab=files&file_id=20264&nmm=1
+1. [Ultraviolence Audio Overhaul (U12)](https://www.nexusmods.com/bladeandsorcery/mods/5936?tab=files&file_id=20264&nmm=1)
 
 2. NPC Blood Overhaul A blood mod which adds alot more blood when piercing NPCS or slashing or dismembering : https://www.nexusmods.com/bladeandsorcery/mods/8332?tab=fil
 
