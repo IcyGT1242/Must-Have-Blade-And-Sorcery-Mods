@@ -15,13 +15,4 @@ READ FIRST ----> CREDITS ----> https://pastebin.com/zQJvZ6rQ
 
 6. [Realistic Arrow Piercing](https://www.nexusmods.com/bladeandsorcery/mods/8227) Arrows go all the way through enemys instead of just the tip of the arrow.
 
-7. [Better Performance Overhaul](https://www.nexusmods.com/bladeandsorcery/mods/8354?tab=files) 
-   Despawn Creature On Kill", "Creature gets despawned X time after getting killed"
-   "Creature Despawn Timer", "Choose when the killed creature gets despawned"
-   "Despawn All Item On Start", "All starting items get despawned when loading into maps"
-   "Despawn Item On Release", "Any item not held, holstered, or TK gets despawned X time after releasing"
-   "Item Despawn Timer", "Choose when the item released gets despawned"
-   "Remove Screen Enhancements", "Player view set to HMD, Motion blur/Panel/Logo/Help turned off"
-   "Change Screen Size", "Screen size set to 160x120"
-   "Particle Amount Decreased", "This sets particle amounts to 50%, 25% if there are a lot"
-   "Debug Logs", "Shows debug logs for testing purposes"
+7. [Better Performance Overhaul](https://www.nexusmods.com/bladeandsorcery/mods/8354?tab=files) Reduces lag so your game can run better - Despawn Creature on kill, Creature despawn time, Particle Amount, and much much more!!!
